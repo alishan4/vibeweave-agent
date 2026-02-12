@@ -19,6 +19,6 @@ auth/
 # IDE
 .vscode/
 
-# OS
+# OS d
 .DS_Store
 Thumbs.db
