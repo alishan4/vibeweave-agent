@@ -3,22 +3,25 @@ node_modules/
 
 # Build
 dist/
-.next/
-out/
 
 # Logs
 *.log
+logs/
 
 # Environment
 .env
 .env.local
 
-# WhatsApp session (VERY IMPORTANT)
+# WhatsApp session (CRITICAL)
 auth/
 
 # IDE
 .vscode/
+.idea/
 
-# OS d
+# OS
 .DS_Store
 Thumbs.db
+
+# PM2
+.pm2/
